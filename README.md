@@ -1,6 +1,5 @@
 # Python For Marketing
 
-# Building A Relational Database From Scratch Using MySQL
 ## Introduction
 This repository is the culmination of resources I used to clean and merge datasets from Google Analytics as well as create visualizations, analyze timeseries and build alerts for for marketing activities. 
 

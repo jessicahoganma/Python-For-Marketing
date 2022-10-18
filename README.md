@@ -12,10 +12,10 @@ This repository is the culmination of resources I used to clean and merge datase
 
 
 ### Technologies Used
-Python
-Google Analytics
-Pandas
-Seaborn
-Jupyter Notebook
+* Python
+* Google Analytics
+* Pandas
+* Seaborn
+* Jupyter Notebook
 
 

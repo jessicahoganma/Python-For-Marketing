@@ -5,11 +5,11 @@ This repository is the culmination of resources I used to clean and merge datase
 
 ### Methods Used
 ```
-*Cleaning, Wranlging and Joining Data
-*Visualizing Marketing Data in Python
-*Working with Timeseries
-*Calculating, Filtering and Creating new metrics
-*Creating Alerts
+* Cleaning, Wranlging and Joining Data
+* Visualizing Marketing Data in Python
+* Working with Timeseries
+* Calculating, Filtering and Creating new metrics
+* Creating Alerts
 ```
 
 ### Technologies Used
